@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">controledegasosa</string>
+    <string name="title_activity_lista_abastecimento">listaAbastecimento</string>
+
+    <string-array name="opcoes_posto">
+        <item>Texaco</item>
+        <item>Ipiranga</item>
+        <item>Shell</item>
+        <item>Petrobrás</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
